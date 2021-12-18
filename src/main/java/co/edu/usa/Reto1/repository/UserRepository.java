@@ -14,7 +14,7 @@ import org.springframework.stereotype.Repository;
 
 /**
  *
- * @author migue
+ * @author Grupo1G18 - Karen salazar
  */
 @Repository
 public class UserRepository {

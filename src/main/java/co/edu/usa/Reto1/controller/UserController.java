@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Indica que UserController va ser un servicio
- * @author migue angel carreño
+ * @author Grupo1G18 - Karen salazar
  */
 @RestController
 /**

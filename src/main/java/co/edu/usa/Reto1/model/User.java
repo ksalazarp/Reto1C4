@@ -20,7 +20,7 @@ import lombok.RequiredArgsConstructor;
 
 /**
  *
- * @author migue
+ * @author Grupo1G18 - Karen salazar
  */
 
 @Entity
